@@ -24,5 +24,10 @@ Comparing KMeans and Ratio-Cut clustering reveals distinct advantages and limita
 - **KMeans Clustering**: Simpler and faster, suitable for images with distinct color intensities. Struggles with determining the optimal number of clusters and significant variations in cluster numbers.
 - **Ratio-Cut Clustering**: More intricate and effective for uniform segments. Utilizes graph theory for cohesive subgraphs but may falter with high noise or varying segment sizes.
 
+## Results
+# K-Means
  ![image](https://github.com/Princeverma3844/Image-Segmentation/assets/123489193/90e5f3ea-dc44-4503-86b7-66941375b4ef)
+# Ratio-Cut
+![image](https://github.com/Princeverma3844/Image-Segmentation/assets/123489193/f3cd519d-d815-40ce-8077-9108491024dc)
+
 
