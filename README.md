@@ -23,3 +23,6 @@ Ratio-Cut clustering is a graph-theory-based method for image segmentation. An i
 Comparing KMeans and Ratio-Cut clustering reveals distinct advantages and limitations:
 - **KMeans Clustering**: Simpler and faster, suitable for images with distinct color intensities. Struggles with determining the optimal number of clusters and significant variations in cluster numbers.
 - **Ratio-Cut Clustering**: More intricate and effective for uniform segments. Utilizes graph theory for cohesive subgraphs but may falter with high noise or varying segment sizes.
+
+ ![image](https://github.com/Princeverma3844/Image-Segmentation/assets/123489193/90e5f3ea-dc44-4503-86b7-66941375b4ef)
+
